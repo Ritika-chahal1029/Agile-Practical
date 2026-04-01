@@ -1,0 +1,3 @@
+Experiment 1: Introduction to Agile
+
+Agile is a software development methodology that focuses on flexibility, collaboration, and customer satisfaction. It helps teams deliver work in small parts and improve continuously.
