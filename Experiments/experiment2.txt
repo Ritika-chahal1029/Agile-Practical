@@ -1,0 +1,3 @@
+Experiment 2: Scrum Model
+
+Scrum is an Agile framework used to manage projects. It includes roles like Product Owner, Scrum Master, and Development Team. Work is done in small cycles called Sprints.
